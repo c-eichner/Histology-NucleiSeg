@@ -10,7 +10,7 @@ The scripts perform the following steps:
 6. 06-Train_Model_UNet_Full.ipynb trains the model on the full U-Net (as described in Ronneberger et al), and validates the results using nuclei counting and boolean pixel analysis
 
 ## Python Environment
-An [anaconda](https://docs.conda.io/en/latest/miniconda.html) python 3.7 environment suitable for executing the code is provided in the file 'pytorchenv.yml'. 
+An [Anaconda Miniconda](https://docs.conda.io/en/latest/miniconda.html) python 3.7 environment suitable for executing the code is provided in the file 'pytorchenv.yml'. 
 To install the environment including all required libraries please run the following command:
 `conda env create -f pytorchenv.yml`
 
